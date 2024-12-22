@@ -3,6 +3,6 @@ Este repositório foi criado para ajudar iniciantes e desenvolvedores em geral a
 
 ## Desafios 
 - [Calculadora Básica em C#](https://github.com/DiegoSanDev/desafios-csharp/tree/main/CalculadoraBasica)
-  - Leia: ([README](https://github.com/DiegoSanDev/desafios-csharp/blob/main/CalculadoraBasica/README.md))
+  - ([README](https://github.com/DiegoSanDev/desafios-csharp/blob/main/CalculadoraBasica/README.md))
 - [Gerador de Tabuada em C#](https://github.com/DiegoSanDev/desafios-csharp/tree/main/GeradorTabuada)
-  - Leia: ([README](https://github.com/DiegoSanDev/desafios-csharp/blob/main/GeradorTabuada/README.md)
+  - ([README](https://github.com/DiegoSanDev/desafios-csharp/blob/main/GeradorTabuada/README.md)
