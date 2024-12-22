@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GeradorTabuada")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6f881378c480b17ceefbfcd6338b8cffc91eaa5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a6642a658eb8602efe02fa4c5a3f142d88e2e55")]
 [assembly: System.Reflection.AssemblyProductAttribute("GeradorTabuada")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GeradorTabuada")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
