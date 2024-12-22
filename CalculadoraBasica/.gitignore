@@ -1,0 +1,78 @@
+# Compilação do Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build Results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+[Bb]in/
+[Oo]bj/
+
+# Pacotes do NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+project.lock.json
+artifacts/
+
+# Arquivos de log
+*.log
+
+# Configurações locais de IDEs
+.idea/
+.vscode/
+
+# Configurações do Rider
+.idea/
+*.sln.iml
+*.dotSettings.user
+
+# Arquivos temporários do sistema operacional
+[Tt]humbs.db
+[Dd]esktop.ini
+*.DS_Store
+*.swp
+*.swo
+
+# Arquivos gerados pelo Azure
+.localhistory/
+.azure/
+
+# Arquivos de publicação
+publish/
+publishProfiles/
+
+# Banco de dados local
+*.mdf
+*.ldf
+
+# Arquivos de depuração
+*.pdb
+
+# Arquivos de cache e temporários
+*.cache
+*.temp
+*.tmp
+
+# Certificados
+*.pfx
+
+# Diretórios de cobertura de testes
+TestResults/
+*.coverage
+*.coveragexml
+
+# Arquivos gerados por ferramentas
+_generated/
+
+# Outras extensões específicas
+*.dbmdl
+*.jfm
+*.tlog
+*.lastbuildstate

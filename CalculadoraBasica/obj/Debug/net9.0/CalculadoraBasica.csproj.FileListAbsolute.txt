@@ -1,0 +1,14 @@
+C:\Users\d.santos.de.mendonca\Desktop\development\c#\CalculadoraBasica\bin\Debug\net9.0\CalculadoraBasica.exe
+C:\Users\d.santos.de.mendonca\Desktop\development\c#\CalculadoraBasica\bin\Debug\net9.0\CalculadoraBasica.deps.json
+C:\Users\d.santos.de.mendonca\Desktop\development\c#\CalculadoraBasica\bin\Debug\net9.0\CalculadoraBasica.runtimeconfig.json
+C:\Users\d.santos.de.mendonca\Desktop\development\c#\CalculadoraBasica\bin\Debug\net9.0\CalculadoraBasica.dll
+C:\Users\d.santos.de.mendonca\Desktop\development\c#\CalculadoraBasica\bin\Debug\net9.0\CalculadoraBasica.pdb
+C:\Users\d.santos.de.mendonca\Desktop\development\c#\CalculadoraBasica\obj\Debug\net9.0\CalculadoraBasica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.santos.de.mendonca\Desktop\development\c#\CalculadoraBasica\obj\Debug\net9.0\CalculadoraBasica.AssemblyInfoInputs.cache
+C:\Users\d.santos.de.mendonca\Desktop\development\c#\CalculadoraBasica\obj\Debug\net9.0\CalculadoraBasica.AssemblyInfo.cs
+C:\Users\d.santos.de.mendonca\Desktop\development\c#\CalculadoraBasica\obj\Debug\net9.0\CalculadoraBasica.csproj.CoreCompileInputs.cache
+C:\Users\d.santos.de.mendonca\Desktop\development\c#\CalculadoraBasica\obj\Debug\net9.0\CalculadoraBasica.dll
+C:\Users\d.santos.de.mendonca\Desktop\development\c#\CalculadoraBasica\obj\Debug\net9.0\refint\CalculadoraBasica.dll
+C:\Users\d.santos.de.mendonca\Desktop\development\c#\CalculadoraBasica\obj\Debug\net9.0\CalculadoraBasica.pdb
+C:\Users\d.santos.de.mendonca\Desktop\development\c#\CalculadoraBasica\obj\Debug\net9.0\CalculadoraBasica.genruntimeconfig.cache
+C:\Users\d.santos.de.mendonca\Desktop\development\c#\CalculadoraBasica\obj\Debug\net9.0\ref\CalculadoraBasica.dll
