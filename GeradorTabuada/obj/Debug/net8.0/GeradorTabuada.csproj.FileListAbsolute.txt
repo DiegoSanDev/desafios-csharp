@@ -1,0 +1,15 @@
+/home/diego/Documentos/development/C#/projects/desafios-csharp/GeradorTabuada/bin/Debug/net8.0/GeradorTabuada
+/home/diego/Documentos/development/C#/projects/desafios-csharp/GeradorTabuada/bin/Debug/net8.0/GeradorTabuada.deps.json
+/home/diego/Documentos/development/C#/projects/desafios-csharp/GeradorTabuada/bin/Debug/net8.0/GeradorTabuada.runtimeconfig.json
+/home/diego/Documentos/development/C#/projects/desafios-csharp/GeradorTabuada/bin/Debug/net8.0/GeradorTabuada.dll
+/home/diego/Documentos/development/C#/projects/desafios-csharp/GeradorTabuada/bin/Debug/net8.0/GeradorTabuada.pdb
+/home/diego/Documentos/development/C#/projects/desafios-csharp/GeradorTabuada/obj/Debug/net8.0/GeradorTabuada.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego/Documentos/development/C#/projects/desafios-csharp/GeradorTabuada/obj/Debug/net8.0/GeradorTabuada.AssemblyInfoInputs.cache
+/home/diego/Documentos/development/C#/projects/desafios-csharp/GeradorTabuada/obj/Debug/net8.0/GeradorTabuada.AssemblyInfo.cs
+/home/diego/Documentos/development/C#/projects/desafios-csharp/GeradorTabuada/obj/Debug/net8.0/GeradorTabuada.csproj.CoreCompileInputs.cache
+/home/diego/Documentos/development/C#/projects/desafios-csharp/GeradorTabuada/obj/Debug/net8.0/GeradorTabuada.sourcelink.json
+/home/diego/Documentos/development/C#/projects/desafios-csharp/GeradorTabuada/obj/Debug/net8.0/GeradorTabuada.dll
+/home/diego/Documentos/development/C#/projects/desafios-csharp/GeradorTabuada/obj/Debug/net8.0/refint/GeradorTabuada.dll
+/home/diego/Documentos/development/C#/projects/desafios-csharp/GeradorTabuada/obj/Debug/net8.0/GeradorTabuada.pdb
+/home/diego/Documentos/development/C#/projects/desafios-csharp/GeradorTabuada/obj/Debug/net8.0/GeradorTabuada.genruntimeconfig.cache
+/home/diego/Documentos/development/C#/projects/desafios-csharp/GeradorTabuada/obj/Debug/net8.0/ref/GeradorTabuada.dll
