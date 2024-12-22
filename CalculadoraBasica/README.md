@@ -26,9 +26,9 @@ Este é um projeto simples de uma calculadora básica em C# que permite realizar
 ## :rocket: Como Executar
 
 1. Clone o repositório para sua máquina local:
-`git clone` https://github.com/DiegoSanDev/desafios-csharp
-`cd` desafios-csharp
-`cd` calculadorabasica
+- `git clone` https://github.com/DiegoSanDev/desafios-csharp
+- `cd` desafios-csharp
+- `cd` calculadorabasica
 2. Compile o projeto
 ```bash
 dotnet build
@@ -38,21 +38,21 @@ dotnet build
 dotnet run
 ```
 
-## :desktop_computer:
+## :desktop_computer: Exemplo de Uso
 1. O programa exibe o menu inicial:
 
-Escolha uma operação:
-1 - Soma
-2 - Subtração
-3 - Multiplicação
-4 - Divisão
-5 - Sair
+- Escolha uma operação:
+    - 1 - Soma
+    - 2 - Subtração
+    - 3 - Multiplicação
+    - 4 - Divisão
+    - 5 - Sair
 
 2. O usuário escolhe uma operação, insere dois números e recebe o resultado:
 
-Digite o primeiro número: 10
-Digite o segundo número: 5
-Resultado: 15
+- Digite o primeiro número: 10
+- Digite o segundo número: 5
+- Resultado: 15
 
 3. O menu é exibido novamente até que o usuário escolha a opção 5 - Sair.
 
@@ -68,4 +68,4 @@ Sinta-se à vontade para contribuir com melhorias, abrindo issues ou enviando pu
 
 ## :open_book: Licença
 
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo ([LICENSE] (https://github.com/DiegoSanDev/desafios-csharp/blob/main/LICENSE)) para mais detalhes.
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo ([LICENSE](https://github.com/DiegoSanDev/desafios-csharp/blob/main/LICENSE)) para mais detalhes.
