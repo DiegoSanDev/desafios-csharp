@@ -5,7 +5,6 @@ namespace CalculadoraBasica
         private readonly IInteracaoUsuario _interacaoUsuario;
         private readonly IDictionary<TipoOperacao, IOperacao> _operacoes;
 
-
         public Calculadora(IInteracaoUsuario interacaoUsuario)
         {
             _interacaoUsuario = interacaoUsuario;
@@ -16,7 +15,6 @@ namespace CalculadoraBasica
                 { TipoOperacao.Multiplicacao, new Multiplicacao() },
                 { TipoOperacao.Divisao, new Divisao() }
             };
-
         }
 
         public void Executar()
